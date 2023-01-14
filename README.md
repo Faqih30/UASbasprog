@@ -5,7 +5,7 @@
 - **Link Youtube  : https://youtu.be/caUdWrZrY7c**
 - Tutorial pdf  : ![pdf](screenshot/tutorial.pdf)
 # Struktur Package dan Modul Program
-! [img](screenshot/modul.PNG)
+![img](screenshot/modul.PNG)
 
 # Penjelasan Program
 ## Modul Model
