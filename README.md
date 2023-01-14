@@ -3,7 +3,7 @@
 ## NIM   : 312210021
 ## Kelas : TI 22 C1
 - **Link Youtube  : https://youtu.be/caUdWrZrY7c**
-- Tutorial pdf  : ![pdf](screenshot/tutorial.pdf)
+- Tutorial pdf  : [Tutorial pdf](screenshot/tutorial.pdf)
 # Struktur Package dan Modul Program
 ![img](screenshot/modul.PNG)
 
